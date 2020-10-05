@@ -7,3 +7,5 @@ class Song < InteractiveRecord
   end
 
 end
+
+# completed readme lesson djp
